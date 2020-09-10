@@ -167,7 +167,7 @@ void stoptime() {
         delay(5000);
         break;
 
-    }
+    } 
 
     M5.update();
 }
